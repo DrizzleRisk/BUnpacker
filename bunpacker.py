@@ -71,7 +71,7 @@ def Dump():
 
 def Useage():
     Title()
-    print '[*] Useage: tunpacker.py jiagu.apk'
+    print '[*] Useage: bunpacker.py jiagu.apk'
     print '[*] 1.Before Running ,make sure a rooted Android system has been connected to your PC'
     print '[*] 2.Only for testing,Do not be evil !'
 
